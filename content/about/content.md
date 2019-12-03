@@ -1,8 +1,8 @@
-Find the repository [on GitHub](https://github.com/fabe/gatsby-universal).
+Find the repository [on GitHub](https://github.com/daletom/gatsby-universal).
 
 ```
 # Installation
-gatsby new my-site https://github.com/fabe/gatsby-universal
+gatsby new my-site https://github.com/daletom/gatsby-universal
 
 # To develop
 yarn develop
